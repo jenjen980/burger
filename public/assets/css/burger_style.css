@@ -1,0 +1,23 @@
+/* h2 { */
+    /* text-align: center;
+    background-image: url("/public/assets/img/burger.jpg"); */
+    /* background-image: radial-gradient(red, yellow);
+    text-decoration-color: blueviolet; */
+    /* background: blue; */
+/* } */
+
+/* button{
+    align-items: center;
+}
+
+li{
+    align-items: center;
+}
+
+h5{
+    text-align: center;
+} */
+.background{
+    text-align: center; background:tan
+    /* background-image: url("/public/assets/img/burger.jpg") */
+}
